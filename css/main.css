@@ -1,0 +1,15 @@
+
+.nav-menu {
+   text-align: right;
+}
+
+.nav-spacing {
+   margin: 0 0 0 10px;
+}
+
+a, a:visited {
+   text-decoration: none;
+   color: rgb(64, 64, 114);
+   font-weight: bold;
+   background-color: lightgray;
+}
